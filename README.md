@@ -1,6 +1,6 @@
-## Hi there 👋
+##Olá ,Eu sou Ítalo Romero👋
+Hi there , i am Ítalo Romero👋
 
-<!--#Eu sou Ítalo Romero  
 
 🎓 Tenho **19 anos**  sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 💻 Apaixonado por tecnologia, estudando **JavaScript** e práticas com **Lean Canvas** e **Canvas**  
@@ -41,4 +41,3 @@
 ---
 ⭐ Se gostou do meu perfil, não esqueça de deixar um "follow"! 😄  
 ⭐ If you like my profile, don’t forget to leave a "follow"! 😄
-
