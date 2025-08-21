@@ -6,8 +6,7 @@ Hi there , i am Ítalo Romero👋
 💻 Gosto muito de tecnologia,e estou estudando **JavaScript** e práticas com **Lean Canvas** e **Canvas**  
 🤝 Trabalho bem em equipe e acredito que um ajudando o outro chegamos mais longe e é a chave para grandes resultados  
 ⚡ Perfil simpático,educado,comunicativo, organizado e, quando necessário, assumo a liderança  
-🚀 Busco sempre aprender novas tecnologias, adquirir novas experiências e contribuir em projetos  
-
+🚀 Busco sempre aprender novas tecnologias e adquirir novas experiências 
 ---
 
 #I'm Ítalo Romero  
@@ -16,8 +15,7 @@ Hi there , i am Ítalo Romero👋
 💻 I really like technology, and I'm currently studying **JavaScript**, **Lean Canvas**, and **Canvas** practices  
 🤝 I work well in teams and believe that by helping each other we can get further and that is the key to great results  
 ⚡ Friendly,educated,communicative, organized, and willing to take the lead when needed  
-🚀 Always eager to learn new technologies gain experiences, and contribute to impactful projects  
-
+🚀 Always eager to learn new technologies and gain experiences 
 ---
 
 ## 🔧 Tecnologias & Ferramentas | Tools & Technologies  
@@ -35,8 +33,8 @@ Hi there , i am Ítalo Romero👋
 ---
 
 ## 🌐 Vamos nos conectar? | Let's connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL@EXEMPLO.COM)  
+[![LinkedIn](www.linkedin.com/in/italo-romero-s-m-6147051aa)  
+[![Email](italoorsm@gmail.com)  
 
 ---
 ⭐ Se gostou do meu perfil, não esqueça de deixar um "follow"! 😄  
