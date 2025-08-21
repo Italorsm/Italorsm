@@ -3,7 +3,7 @@ Hi there , i am Ítalo Romero👋
 
 
 🎓 Tenho **19 anos**  sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-💻 Apaixonado por tecnologia, estudando **JavaScript** e práticas com **Lean Canvas** e **Canvas**  
+💻 Gosto muito de tecnologia,e estou estudando **JavaScript** e práticas com **Lean Canvas** e **Canvas**  
 🤝 Trabalho bem em equipe e acredito que colaboração é a chave para grandes resultados  
 ⚡ Perfil simpático,educado,comunicativo, organizado e, quando necessário, assumo a liderança  
 🚀 Busco sempre aprender novas tecnologias, adquirir novas experiências e contribuir em projetos  
@@ -13,7 +13,7 @@ Hi there , i am Ítalo Romero👋
 #I'm Ítalo Romero  
 
 🎓 I'm **19 years old**  a student of **Systems Analysis and Development (ADS)**  
-💻 Passionate about technology, currently studying **JavaScript**, **Lean Canvas**, and **Canvas** practices  
+💻 I really like technology, and I'm currently studying **JavaScript**, **Lean Canvas**, and **Canvas** practices  
 🤝 I work well in teams and believe collaboration is the key to great results  
 ⚡ Friendly,educated,communicative, organized, and willing to take the lead when needed  
 🚀 Always eager to learn new technologies gain experiences, and contribute to impactful projects  
