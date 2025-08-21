@@ -1,12 +1,14 @@
 ##Olá ,Eu sou Ítalo Romero👋
-Hi there , i am Ítalo Romero👋
+##Hi there , i am Ítalo Romero👋
 
 
 🎓 Tenho **19 anos**  sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 💻 Gosto muito de tecnologia,e estou estudando **JavaScript** e práticas com **Lean Canvas** e **Canvas**  
 🤝 Trabalho bem em equipe e acredito que um ajudando o outro chegamos mais longe e é a chave para grandes resultados  
 ⚡ Perfil simpático,educado,comunicativo, organizado e, quando necessário, assumo a liderança  
-🚀 Busco sempre aprender novas tecnologias e adquirir novas experiências 
+🚀 Busco sempre aprender novas tecnologias e adquirir novas experiências.Apesar de ainda não ter experiência profissional, desenvolvo projetos pessoais e participo de cursos online (Alura) para expandir meus conhecimentos. Tenho facilidade em aprender novas tecnologias, sou proativo, gosto de resolver problemas e me relaciono bem com diferentes pessoas.  
+Busco oportunidades na área de **programação e desenvolvimento web**, onde eu possa aplicar o que aprendo, crescer como profissional e colaborar em um ambiente prático e inovador.  
+
 ---
 
 #I'm Ítalo Romero  
@@ -15,7 +17,8 @@ Hi there , i am Ítalo Romero👋
 💻 I really like technology, and I'm currently studying **JavaScript**, **Lean Canvas**, and **Canvas** practices  
 🤝 I work well in teams and believe that by helping each other we can get further and that is the key to great results  
 ⚡ Friendly,educated,communicative, organized, and willing to take the lead when needed  
-🚀 Always eager to learn new technologies and gain experiences 
+🚀 Always eager to learn new technologies and gain experiences.Although I don’t have professional experience yet, I am working on personal projects and taking online courses (Alura) to expand my knowledge. I quickly learn new technologies, am proactive, enjoy problem-solving, and get along well with different people.  
+I am looking for opportunities in **programming and web development**, where I can apply what I am learning, grow as a professional, and contribute in a practical and innovative environment.
 ---
 
 ## 🔧 Tecnologias & Ferramentas | Tools & Technologies  
@@ -32,9 +35,10 @@ Hi there , i am Ítalo Romero👋
 
 ---
 
-## 🌐 Vamos nos conectar? | Let's connect  
-[![LinkedIn](www.linkedin.com/in/italo-romero-s-m-6147051aa)  
-[![Email](italoorsm@gmail.com)  
+## 🌐 Contatos | Contacts  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/italoorsm)  
+- 📧 [Email](mailto:italoorsm@gmail.com)   
 
 ---
 ⭐ Se gostou do meu perfil, não esqueça de deixar um "follow"! 😄  
