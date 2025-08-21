@@ -1,5 +1,5 @@
-##Olá ,Eu sou Ítalo Romero👋
-##Hi there , i am Ítalo Romero👋
+Olá ,Eu sou Ítalo Romero👋
+Hi there , i am Ítalo Romero👋
 
 
 🎓 Tenho **19 anos**  sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
@@ -10,8 +10,6 @@
 Busco oportunidades na área de **programação e desenvolvimento web**, onde eu possa aplicar o que aprendo, crescer como profissional e colaborar em um ambiente prático e inovador.  
 
 ---
-
-#I'm Ítalo Romero  
 
 🎓 I'm **19 years old**  a student of **Systems Analysis and Development (ADS)**  
 💻 I really like technology, and I'm currently studying **JavaScript**, **Lean Canvas**, and **Canvas** practices  
